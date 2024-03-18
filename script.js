@@ -33,11 +33,11 @@ function init() {
             clearPositions();
             if(cars[i].id == carsSelect.value){
               alert(cars[i].id + " won a race! \nYour bet was the winner, Congratulations!");                          
-              balance += valor.value
+              balance = (valor.value * 2) + balance;
               balanceValor.innerText = "Balance: R$ " + balance;
             }else{
               alert(cars[i].id + " won the race! \nYou lost!");
-              balance -= valor.value
+              balance -= valor.value;
               balanceValor.innerText = "Balance: R$ " + balance;
             }
             break;

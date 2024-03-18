@@ -10,6 +10,8 @@
 <div style="display: inline_block">
 <p align="justify">
   Jogo consiste em que o player digite o valor que deseja apostar e selecione a equipe em que vai apostar, aonde ao apertar o bota de realizar aposta player aconpanha a corrida ao finalizar o o jogo ira informar um alerta dizendo se o o carro selecionado ganhou ou perdeu. se ganhou ira acrecentar o dobro do valor apostado caso contrario ira diminuir o valor apostado.
+
+ Link do Jogo: https://formula1betting.vercel.app/
 </p>
 <div>
 

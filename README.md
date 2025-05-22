@@ -3,19 +3,19 @@
   <img align="center"  alt="git" height="400" width="700" src="/assets/Formula 1.gif">
 </div>
 
-### Descrição
+### Description
 
 ##
 
 <div style="display: inline_block">
 <p align="justify">
-  Jogo consiste em que o player digite o valor que deseja apostar e selecione a equipe em que vai apostar, aonde ao apertar o bota de realizar aposta player aconpanha a corrida ao finalizar o o jogo ira informar um alerta dizendo se o o carro selecionado ganhou ou perdeu. se ganhou ira acrecentar o dobro do valor apostado caso contrario ira diminuir o valor apostado.
+  The game consists of the player entering the amount he wants to bet and selecting the team he will bet on, where when pressing the bet button the player follows the race, at the end of the game an alert will be sent saying whether the selected car won or lost. If it won, double the amount bet will be added, otherwise the amount bet will be reduced.
 
- Link do Jogo: https://formula1betting.vercel.app/
+ Game Link: https://formula1betting.vercel.app/
 </p>
 <div>
 
-### Ferramenta Utilizada
+### Tool Used
 
 ##
 
@@ -27,7 +27,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
-### Desenvolvedor
+### Developer
 
 ##
 
